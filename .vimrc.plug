@@ -6,4 +6,7 @@ Plug 'tpope/vim-fugitive'
 "Nerd Tree
 Plug 'preservim/nerdtree'
 
+" Syntax Checking
+Plug 'scrooloose/syntastic'
+
 call plug#end()
