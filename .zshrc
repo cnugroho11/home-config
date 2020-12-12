@@ -24,6 +24,7 @@ alias rnlaravel="php artisan serve"
 
 # zsh
 alias editzsh="vim .zshrc"
+alias editgit="vim .gitignore"
 
 eval "$(starship init zsh)"
 
