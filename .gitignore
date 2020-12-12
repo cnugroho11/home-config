@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# Except this
+!.gitignore
+!.gitconfig
+!.bashrc
+!.zshrc

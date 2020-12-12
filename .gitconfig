@@ -1,0 +1,6 @@
+[filesystem "Oracle Corporation|1.8.0_265|/dev/sda3"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 6196 microseconds
+[user]
+	email = cnugroho211@gmail.com
+	name = cnugroho11
