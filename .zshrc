@@ -28,6 +28,13 @@ alias editgit="vim .gitignore"
 alias editvim="vim .vimrc"
 alias editplug="vim .vimrc.plug"
 
+# git
+alias gremote="git config --get remote.origin.url"
+alias gstatus="git status"
+alias gadd="git add ."
+alias gpush="git push origin"
+alias gcommit="git commit -m"
+
 eval "$(starship init zsh)"
 
 # Flutter Path
